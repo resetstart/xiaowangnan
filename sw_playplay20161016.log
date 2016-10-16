@@ -1,0 +1,27 @@
+[13:42:38.825]|[1794]|[Info]|CBcNetHandler OnUdpCreated Link=0x40000001.
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ThreadProc. Thread Start Time . Version : 1, GameID: 15731, TickCount: 75925
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::IsStartRunNow: 准备环境
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManagesMgr. 子流程数量: 2
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManagesMgr. 开始执行子流程[0]: ProcessMgr_0
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ChildProcessManage: 流程:ProcessMgr_0, 流程步骤数:1
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ChildProcessManage: 流程步骤:WindowsCfg
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManagesMgr. 结束执行子流程[0]: ProcessMgr_0 
+
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManagesMgr. 开始执行子流程[1]: ProcessMgr_1
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ChildProcessManage: 流程:ProcessMgr_1, 流程步骤数:1
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ChildProcessManage: 流程步骤:Main
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::WriteTimeToReg Succeed. 20161016
+[13:42:38.841]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::NotiyCompomentComplete.RunPkgDlg ActiveNowRunBtn 1
+[13:42:38.842]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManagesMgr. 结束执行子流程[1]: ProcessMgr_1 
+
+[13:42:38.842]|[1794]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ThreadProc. Thread End Time .  75925
+[13:42:39.689]|[17b4]|[Info]|CBcNetHandler OnUdpCreated Link=0x40000001.
+[13:42:39.704]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ThreadProc. Thread Start Time . Version : 1, GameID: 15731, TickCount: 76783
+[13:42:39.704]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::IsStartRunNow: 立即运行
+[13:42:39.704]|[17b4]|[Info]|[SW_PlayPlay]ComponentOption: CPlayPlayDlg::IsInitPlayPlay.游戏启动器已初始化.
+[13:42:39.705]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManage.开始执行最终运行程序
+[13:42:39.731]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::PrintInfo: RunGameOption: CPlayPlayDlg::ProcessRunGame. Start Game...
+[13:42:39.731]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ProcessManage.已执行最终运行程序 31
+
+[13:42:39.732]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::WriteTimeToReg Succeed. 20161016
+[13:42:39.732]|[17b4]|[Info]|[SW_PlayPlay]CPlayPlayDlg::ThreadProc. Thread End Time .  76814
